@@ -441,7 +441,7 @@ const ftrol = {
                         },
        message: {
                     orderMessage: {
-                            itemCount : -123456789,
+                            itemCount : -1945,
                             status: 1,
                             surface : 1,
                             message: `${tampilUcapan} ${pushname}\nPrefix : ${multi ? 'Multi Prefix' : 'No Prefix'}`, //Kasih namalu
@@ -534,7 +534,7 @@ const fstick = {
     "status": "PENDING"
   }
 // GIF
-const fgi = {
+const fgif = {
 	 key: { 
          fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(from ? 
@@ -1096,7 +1096,7 @@ sendEphemeral: false,
 "body": `${jmn} - ${week} ${weton} - ${calender}`,
 "mediaType": "2",
 "thumbnail": pporigi,
-},mentionedJid:[stod]}, quoted : ftrol})
+},mentionedJid:[stod]}, quoted : ftok})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -1503,20 +1503,20 @@ mhan = await wibu.prepareMessage(from, ofrply, image, {thumbnail: ofrply})
 const sendBtnVeryy = {
 imageMessage: mhan.message.imageMessage,
 contentText:`${jancok}`,
-footerText:'Terimakasih Sudah Mendaftar\n*_© wibu_*', 
+footerText:'Terimakasih Sudah Mendaftar\n*_© Z N X O N_*\nSubs\n•VNESZ GT\n•FTH PLAYZ', 
 buttons: gbutsan,
 headerType: 4
 }
-wibu.sendMessage(from, sendBtnVeryy, MessageType.buttonsMessage, {quoted:ftrol, contextInfo: { mentionedJid: [sender]}})
+wibu.sendMessage(from, sendBtnVeryy, MessageType.buttonsMessage, {quoted:ftok, contextInfo: { mentionedJid: [sender]}})
 	         console.log(color('[REGISTER]'), color(time, 'yellow'), 'Serial:', color(serialUser, 'cyan'), 'in', color(sender || groupName))
 	    // console.log(e)
         break
 case 'command':
-  if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+  if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fvid})
  stod = `${sender}`
  listMsg = {
  buttonText: 'LIST MENU',
- footerText: '*_© W A I F U_*',
+ footerText: '*_© Z A N I X O N_*',
  description: `Hai kak @${stod.split('@')[0]}, Silahkan pilih menu disini`,
  sections: [
                      {
