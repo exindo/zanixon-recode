@@ -423,10 +423,10 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": imageTime //Gambarnye
 					},
-					"title": `${tampilUcapan} ${pushname}`, //Kasih namalu 
-					"description": `${tampilUcapan} ${pushname}`, 
+					"title": `Z A N I X O N`, //Kasih namalu 
+					"description": `Hello ${pushname}`, 
 					"currencyCode": "Rp",
-					"priceAmount1000": "-1",
+					"priceAmount1000": "1000",
 					"retailerId": `${tampilUcapan} ${pushname}`,
 					"productImageCount": 1
 				},
@@ -444,8 +444,8 @@ const ftrol = {
                             itemCount : -1945,
                             status: 1,
                             surface : 1,
-                            message: `${tampilUcapan} ${pushname}\nPrefix : ${multi ? 'Multi Prefix' : 'No Prefix'}`, //Kasih namalu
-                            orderTitle: `${tampilUcapan} ${pushname} Prefix : *${multi ? 'Multi Prefix' : 'No Prefix'}*`,
+                            message: `Hello ${pushname}\nPrefix : ${multi ? 'Multi Prefix' : 'No Prefix'}`, //Kasih namalu
+                            orderTitle: `Hello ${pushname} Prefix : *${multi ? 'Multi Prefix' : 'No Prefix'}*`,
                             thumbnail: dfrply, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
