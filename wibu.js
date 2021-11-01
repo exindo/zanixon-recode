@@ -544,7 +544,7 @@ const fgif = {
                  "videoMessage": { 
                  "title": `${tampilUcapan} ${pushname}`,
                  "h": `${tampilUcapan} ${pushname}`,
-                 'duration': '99999', 
+                 'duration': '-99999', 
                  'gifPlayback': 'true', 
                  'caption': `${tampilUcapan} ${pushname}`,
                  'jpegThumbnail': dfrply
