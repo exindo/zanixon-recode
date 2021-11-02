@@ -424,7 +424,7 @@ key: {
 						"jpegThumbnail": imageTime //Gambarnye
 					},
 					"title": `Z A N I X O N`, //Kasih namalu 
-					"description": `Hello ${pushname}`, 
+					"description": `Hello ${pushname}\nPrefix:${prefix}`, 
 					"currencyCode": "Rp",
 					"priceAmount1000": "1000",
 					"retailerId": `${tampilUcapan} ${pushname}`,
